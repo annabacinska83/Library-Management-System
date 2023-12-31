@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Recenzia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Recenzia\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=hodnotenie\ komentar
+comment1.target=Recenzia(Hodnotenie,\ java.lang.String)
+comment2.params=
+comment2.target=Hodnotenie\ getHodnotenie()
+comment3.params=
+comment3.target=java.lang.String\ getKomentar()
+comment4.params=
+comment4.target=void\ vypisRecenzie()
+comment5.params=hodnotenie
+comment5.target=boolean\ kontrolaHodnotenia(Hodnotenie)
+comment6.params=komentar
+comment6.target=boolean\ kontrolaKomentaru(java.lang.String)
+numComments=7

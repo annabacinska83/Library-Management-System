@@ -1,0 +1,29 @@
+Haruki Murakami, Norwegian Wood, 1987, 978-4-08-774313-0
+Jane Austen, Pride and Prejudice, 1813, 978-1-85326-000-2
+George Orwell, 1984, 1949, 978-0-452-28423-4
+Gabriel García Márquez, One Hundred Years of Solitude, 1967, 978-0-06-112009-1
+J.K. Rowling, Harry Potter and the Sorcerer's Stone, 1997, 0-590-35340-3
+F. Scott Fitzgerald, The Great Gatsby, 1925, 978-0-7432-7356-5
+Leo Tolstoy, Anna Karenina, 1877, 978-0-19-953606-1
+J.R.R. Tolkien, The Lord of the Rings, 1954, 978-0-00-720355-0
+Mark Twain, The Adventures of Huckleberry Finn, 1884, 978-0-553-21278-6
+Agatha Christie, Murder on the Orient Express, 1934, 978-0-06-207349-5
+Aldous Huxley, Brave New World, 1932, 978-0-06-085052-4
+Ernest Hemingway, The Old Man and the Sea, 1952, 978-0-684-80122-3
+Virginia Woolf, Mrs. Dalloway, 1925, 978-0-15-662870-9
+Khaled Hosseini, The Kite Runner, 2003, 978-1-59448-000-3
+Ray Bradbury, Fahrenheit 451, 1953, 978-1-4516-7331-9
+Margaret Atwood, The Handmaid's Tale, 1985, 978-0-385-49081-8
+H.G. Wells, The War of the Worlds, 1898, 978-1-56619-845-9
+Suzanne Collins, The Hunger Games, 2008, 978-0-439-02348-1
+Chinua Achebe, Things Fall Apart, 1958, 978-0-385-47454-2
+J.D. Salinger, The Catcher in the Rye, 1951, 978-0-316-76948-0
+Isabel Allende, The House of the Spirits, 1982, 978-0-553-26049-0
+George R.R. Martin, A Game of Thrones, 1996, 978-0-553-10354-0
+Ken Follett, The Pillars of the Earth, 1989, 978-0-451-16002-6
+Roald Dahl, Matilda, 1988, 978-0-14-241037-0
+Toni Morrison, Beloved, 1987, 978-1-4000-3349-0
+
+
+
+

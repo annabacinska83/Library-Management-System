@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UserInput
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UserInput\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UserInput()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserInput\r\n
+comment2.params=sc
+comment2.target=Pouzivatel\ zadajTypPouzivatela(java.util.Scanner)
+comment3.params=sc
+comment3.target=java.lang.String\ zadajUsername(java.util.Scanner)
+comment4.params=sc
+comment4.target=java.lang.String\ zadajMeno(java.util.Scanner)
+comment5.params=sc
+comment5.target=java.lang.String\ zadajPriezvisko(java.util.Scanner)
+comment6.params=sc
+comment6.target=java.lang.String\ zadajHeslo(java.util.Scanner)
+comment7.params=username
+comment7.target=boolean\ kontrolaInputu(java.lang.String)
+comment8.params=heslo
+comment8.target=boolean\ kontrolaHesla(java.lang.String)
+numComments=9

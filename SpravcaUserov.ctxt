@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SpravcaUserov
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SpravcaUserov\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SpravcaUserov()
+comment2.params=
+comment2.target=void\ registrujPouzivatela()
+comment3.params=
+comment3.target=User\ prihlasPouzivatela()
+comment4.params=username\ heslo
+comment4.target=User\ overPrihlasenie(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=boolean\ jePrihlaseny()
+numComments=6
