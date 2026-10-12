@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Management System
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: A simple terminal-based management system built in Java for the INF 1 course.
+
+VERSION / DATE: 2023
+
+HOW TO START THIS PROJECT: Run the main Java class in an IDE or terminal.
+
+AUTHORS: Anna Bačinská
+
+USER INSTRUCTIONS: Follow the terminal menu to interact with the system and manage records.
